@@ -1,0 +1,27 @@
+{
+  "build": "9841",
+  "desktopApps": [
+    "File Explorer", "PC Settings", "Task Manager", "Control Panel", "Command Prompt",
+    "Notepad", "Paint", "Calculator", "WordPad", "Snipping Tool", "PowerShell", 
+    "Run", "Registry Editor", "Disk Cleanup", "Defragmenter", "Character Map",
+    "Resource Monitor", "Step Recorder", "Internet Explorer", "Media Player"
+  ],
+  "metroApps": [
+    { "name": "Mail", "color": "#0078d7", "update": "New Email from Microsoft" },
+    { "name": "Weather", "color": "#1e7145", "update": "72° - Sunny" },
+    { "name": "Store", "color": "#4617b4", "update": "3 Updates Available" },
+    { "name": "News", "color": "#d24726", "update": "Windows 10 Preview is Live" },
+    { "name": "Photos", "color": "#2b5797", "update": "Recent: Trip to Seattle" },
+    { "name": "Finance", "color": "#15992a", "update": "MSFT: +1.2%" },
+    { "name": "Maps", "color": "#603cba", "update": "Redmond, WA" },
+    { "name": "Xbox", "color": "#107c10", "update": "Friend Online: MajorNelson" },
+    { "name": "Calendar", "color": "#2d89ef", "update": "Event: Dev Sync" },
+    { "name": "Music", "color": "#b91d47", "update": "Now Playing: Groove" },
+    { "name": "Video", "color": "#e3a21a", "update": "New: Windows Insider" },
+    { "name": "OneDrive", "color": "#00a1f1", "update": "Syncing Files..." },
+    { "name": "Sports", "color": "#008287", "update": "Score: 2-1" },
+    { "name": "Health", "color": "#9c27b0", "update": "Steps: 10,240" },
+    { "name": "Food", "color": "#e67e22", "update": "Recipe of the Day" },
+    { "name": "Reader", "color": "#c0392b", "update": "PDF: Release Notes" }
+  ]
+}
