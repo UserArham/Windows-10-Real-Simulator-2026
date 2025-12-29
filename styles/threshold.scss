@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  // Authentic Build 9841 Placeholder Wallpaper
+  background: #1a1a2e url('wallpapercave.com') no-repeat center/cover;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  overflow: hidden;
+  color: #fff;
+}
+
+.window {
+  border: 1px solid #1c1c1c; // The iconic "dark-thin" border
+  background: #ffffff;
+  border-radius: 0 !important; // Absolute sharp edges
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  color: #000;
+  
+  .title-bar {
+    background: #f3f3f3;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    font-size: 12px;
+  }
+}
+
+.taskbar {
+  background: rgba(0,0,0,0.9);
+  height: 40px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
