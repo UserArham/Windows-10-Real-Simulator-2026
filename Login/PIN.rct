@@ -1,0 +1,18 @@
+label:PIN-form;label
+ PIN;50x90px
+click;
+  SEC;0.25
+enter;DETECT
+  "detect.mp4"
+react to "detect.mp4" tracker; enable_CLICK
+ import "Click" by react
+ import "PIN Click" by lucide-react
+ import "EXPORTED Click" by svelte
+ import "base64" by mxr player
+       div;
+        {click-"click.mp4"}
+      {incorrect-"wrong.mp4"}
+ block tracker; "SaltOSforDesktop.deb"
+          # Base 64 #
+  <iframe> "index.html" apply base64 by Svelte
+"launch.mp4"-radio
